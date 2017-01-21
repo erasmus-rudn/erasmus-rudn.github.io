@@ -1,13 +1,18 @@
 ---
+title: Conditions
+date: 2014-07-14 00:00:00 Z
+categories:
+- Web Development
 layout: default
 modal-id: 5
-date: 2014-07-14
-title: Conditions 
 img: fa-suitcase
-alt: Conditions 
+alt: Conditions
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: 3MUS-2017 summer school will host up to 50 international students. Students will be provided with accommodation at the university campus, lunch and coffee-breaks per day and all necessary material for courses. Visa support, including invitation letters, will be also provided by the organizers. The participation fee is 300 US dollar per person.
-
+description: 3MUS-2017 summer school will host up to 50 international students. Students
+  will be provided with accommodation at the university campus, lunch and coffee-breaks
+  per day and all necessary material for courses. Visa support, including invitation
+  letters, will be also provided by the organizers. The participation fee is 300 US
+  dollar per person.
 ---
+

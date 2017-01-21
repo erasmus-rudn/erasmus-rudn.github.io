@@ -1,0 +1,19 @@
+---
+title: Special offer 3MUS + SUITMA9 International Congress
+date: 2014-07-15 00:00:00 Z
+categories:
+- Web Development
+layout: default
+modal-id: 6
+img: fa-star
+alt: Special offer
+project-date: April 2014
+client: Start Bootstrap
+description: 'During May 22-26th 2017, RUDN University is hosting the largest biannual
+  world congress on urban soils - SUITMA 9 (suitma-russia.com). This provides a unique
+  opportunity to involve some of the best world experts in urban ecology and soils
+  science as lecturers of the 3MUS summer school. 3MUS organizers, in collaboration
+  with the SUITMA 9 organizing committee, propose a special fee offer: 600$ for participation
+  in both 3MUS -2017 (May, 18-21) and SUITMA 9 (May, 22-26).'
+---
+

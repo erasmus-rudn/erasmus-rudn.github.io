@@ -1,13 +1,19 @@
 ---
+title: Participants
+date: 2014-07-15 00:00:00 Z
+categories:
+- Web Development
 layout: default
 modal-id: 4
-date: 2014-07-15
-title: Participants
-img: fa-users 
-alt: Participants 
+img: fa-users
+alt: Participants
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: This program targets Bachelors, Masters and PhD students, young researchers, and practioners, with backgrounds in urban ecology, urban agriculture, environmental remediation, landscape design and greening, nature conservation, land-use planning, urban planning, and sustainable development, and other related disciplines. The goal is to nurture a creative and integrative approach to develop nature-based solutions in urban management
-
+description: This program targets Bachelors, Masters and PhD students, young researchers,
+  and practioners, with backgrounds in urban ecology, urban agriculture, environmental
+  remediation, landscape design and greening, nature conservation, land-use planning,
+  urban planning, and sustainable development, and other related disciplines. The
+  goal is to nurture a creative and integrative approach to develop nature-based solutions
+  in urban management
 ---
+

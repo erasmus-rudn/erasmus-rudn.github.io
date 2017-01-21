@@ -1,13 +1,26 @@
 ---
+title: Topic and format
+date: 2014-07-16 00:00:00 Z
+categories:
+- Web Development
 layout: default
 modal-id: 3
-date: 2014-07-16
-title: Topic and format 
-img: fa-file-text-o 
-alt: Topic and format 
+img: fa-file-text-o
+alt: Topic and format
 project-date: April 2014
 client: Start Bootstrap
-category: Web Development
-description: The 3MUS-2017 summer schools will focus on urban soils as a unique resource to provide important functions for human and environment and to support ecosystem services. The summer school will include lectures (L), seminars (S) and practices (P). The practice will involve field survey and in situ measurement, working in research laboratories and landscape architecture studios. Experts with different background, including but not limited to, environmental conservation, soil science, climate change, civil engineering and policy-making, will be invited to give lectures or seminars. Top-level researchers, landscape designers, policy makers and urban managers will share their experience in utilizing knowledge on urban soils to develop sustainable urban ecosystem. Participants will work in teams to propose solutions for specific problems, relevant for sustainable management of urban soils. The teams will come together to solve the overarching problem with the final presentation of the obtained results at the mini-conference and closing ceremony
-
+description: The 3MUS-2017 summer schools will focus on urban soils as a unique resource
+  to provide important functions for human and environment and to support ecosystem
+  services. The summer school will include lectures (L), seminars (S) and practices
+  (P). The practice will involve field survey and in situ measurement, working in
+  research laboratories and landscape architecture studios. Experts with different
+  background, including but not limited to, environmental conservation, soil science,
+  climate change, civil engineering and policy-making, will be invited to give lectures
+  or seminars. Top-level researchers, landscape designers, policy makers and urban
+  managers will share their experience in utilizing knowledge on urban soils to develop
+  sustainable urban ecosystem. Participants will work in teams to propose solutions
+  for specific problems, relevant for sustainable management of urban soils. The teams
+  will come together to solve the overarching problem with the final presentation
+  of the obtained results at the mini-conference and closing ceremony
 ---
+
