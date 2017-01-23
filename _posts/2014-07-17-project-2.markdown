@@ -12,7 +12,7 @@ client: Start Bootstrap
 description: '3MUS will take place at the academic institutions of the organizing
   partners: in Russia and the USA, alternating the host country each year. The duration
   of the program is 4-7 days.  This first year, 3MUS-2017 summer school will take
-  place at RUDN university in Moscow May, 18 -21 2017. This will be followed by the
+  place at RUDN university in Moscow May, 19 -22 2017. This will be followed by the
   9th International SUITMA Congress.'
 ---
 
