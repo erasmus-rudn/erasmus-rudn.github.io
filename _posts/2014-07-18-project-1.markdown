@@ -1,5 +1,5 @@
 ---
-title: General information
+title: History
 date: 2014-07-18 00:00:00 Z
 categories:
 - Web Development
@@ -9,12 +9,7 @@ img: fa-info-circle
 alt: General information
 project-date: April 2014
 client: Start Bootstrap
-description: 3MUS summer school is an annual event, organized as a joint initiative
-  among RUDN University (Moscow, Russia), CUNY (New York City, USA) and USI (New York
-  City, USA) to address relevant contemporary environmental consequences of urbanization
-  and sustainable urban development. The summer school aims to provide a solid background
-  and practical skills training in addressing impacts of urbanization through the
-  monitoring and assessment of urban air, water, and soils, design and maintenance
-  of urban green infrastructure, and other projects of sustainable urban development.
+description: For the first time, the school was organized in Moscow ahead of the SUITMA 9 international congress in May 2017 and attracted students and speakers from 12 countries.  According to the SUITMA (Soils of urban, industrial, traffic, mining and military areas) - the professional community of urban soil scientist - this was the first some school, addressing an issue of urban soils at a broad content and at the international level
+
 ---
 
