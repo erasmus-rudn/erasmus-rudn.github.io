@@ -9,7 +9,9 @@ img: fa-suitcase
 alt: Conditions
 project-date: April 2014
 client: Start Bootstrap
-description: 3MUGIS-2018 summer school will host international groups up to 30-35 students. Students will be provided with accommodation at the university campus, two meals per day and all necessary material for courses. Visa support, including preparation of the invitation letters, will be also provided by the organizers
-
+description: 3MUGIS-2018 summer school will host international groups up to 30-35
+  students. Students will be provided with accommodation at the university campus,
+  two meals per day and all necessary material for courses. Visa support, including
+  preparation of the invitation letters, will be also provided by the organizers
 ---
 
