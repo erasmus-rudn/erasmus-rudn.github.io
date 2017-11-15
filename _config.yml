@@ -1,5 +1,5 @@
 ---
-title: 3 MUS 2017
+title: 3MUGIS
 timezone: UTC
 collections:
   posts:
@@ -9,11 +9,9 @@ collections:
     title: Uploads
     output: true
 email: yaroslavtsevam@gmail.com
-url: http://3mus-2017.ru
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-intro: 'RUDN University - 19-22 of May - in Moscow '
+url: http://3mugis.org
+description: The 3MUGIS school organized by RUDN University (Moscow, Russia) in collaboration with Urban Soil Institute (New York, USA) and under umbrella of the International Union of Soil Science (IUSS).
+intro: 'June 14 – 27, 2018 RUDN University, Moscow, Russia'
 meta_author: Alex Yaroslavtsev
 google_verify: 
 bing_verify: 
@@ -43,7 +41,6 @@ social:
 address:
 - line: 117198, Moscow, Miklukho-Maklaya str. 6
 - line: 'Tel.: +7 (495) 434 5300'
-credits: Summer School 3 MUS 2017 'Monitoring, Modeling and Managing Urban Soils',
-  Moscow, May 2017
+credits: The 3MUGIS school is organized by RUDN University (Moscow, Russia) in collaboration with Urban Soil Institute (New York, USA) and under umbrella of the International Union of Soil Science (IUSS),   Moscow, May 2017
 markdown: kramdown
 permalink: pretty
