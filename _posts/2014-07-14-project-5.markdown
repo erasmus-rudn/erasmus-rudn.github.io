@@ -9,10 +9,7 @@ img: fa-suitcase
 alt: Conditions
 project-date: April 2014
 client: Start Bootstrap
-description: 3MUS-2017 summer school will host up to 50 international students. Students
-  will be provided with accommodation at the university campus, lunch and coffee-breaks
-  per day and all necessary material for courses. Visa support, including invitation
-  letters, will be also provided by the organizers. The participation fee is 300 US
-  dollar per person.
+description: 3MUGIS-2018 summer school will host international groups up to 30-35 students. Students will be provided with accommodation at the university campus, two meals per day and all necessary material for courses. Visa support, including preparation of the invitation letters, will be also provided by the organizers
+
 ---
 
