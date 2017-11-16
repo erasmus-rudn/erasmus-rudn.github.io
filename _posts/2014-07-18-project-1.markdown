@@ -6,7 +6,7 @@ categories:
 layout: default
 modal-id: 1
 img: fa-info-circle
-alt: General information
+alt: History
 project-date: April 2014
 client: Start Bootstrap
 description: For the first time, the school was organized in Moscow ahead of the SUITMA
