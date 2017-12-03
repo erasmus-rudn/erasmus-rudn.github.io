@@ -1,2 +1,6 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
+header.intro-back:after {
+    background-color: black;
+    opacity:.3
+}
