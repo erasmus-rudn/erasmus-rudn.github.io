@@ -9,10 +9,6 @@ img: fa-calendar
 alt: Duration and venue
 project-date: April 2014
 client: Start Bootstrap
-description: 3MUGIS-2018 will take place in Russia June 14 –27 and will include two
-  parts. The first part will take place in RUDN University, Moscow and will include
-  one week of intensive short-courses, master classes and working on team projects.
-  The second part will be a field tour observing natural and anthropogenic soils and
-  landscapes of Russia from taiga to steppes and from Podzols to Chernozems.
+description: 3MUGIS-2018 will take place in Russia May 21 – 30 and will include two parts. The first part will take place in Moscow and will include one week of intensive short-courses, practical trainings and master classes. School participants will work in teams on the research and applied projects related to environmental impact assessment and sustainable urban management. The projects will be discussed and defended in front of the international and inter-disciplinary committee and the authors of the best project will be awarded. The second part will be a 5 day field-tour observing natural and anthropogenic soils and landscapes of Russia from taiga to steppes and from Podzols to Chernozems. In addition to studying, summer school will provide a remarkable social program, including a photo contest “Urban landscape”, a special “Soil and art” master-class, delicious local food, sport and outdoor activities..
 ---
 
