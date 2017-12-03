@@ -1,9 +1,9 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
 header.intro-back {
-background: linear-gradient(
+background: linear-gradient(         
         to bottom,
         rgba(0,0,0, 0),
-        rgba(0,0,0, 100)
-      ),url(../../img/intro-back.jpg)
+        rgba(30,180,110,0.8)
+),url(../../img/intro-back.jpg)
 }
