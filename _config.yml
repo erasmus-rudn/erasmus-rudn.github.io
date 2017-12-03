@@ -41,10 +41,10 @@ social:
 - title: github
   url: http://github.com/jekyll
 address:
-- line: 117198, Moscow, Miklukho-Maklaya str. 6
+- line: 117198, Moscow,<br> Miklukho-Maklaya str. 6
 - line: 'Tel.: +7 (495) 434 5300'
 credits: The 3MUGIS school is organized by RUDN University (Moscow, Russia) in collaboration
   with Urban Soil Institute (New York, USA) and under umbrella of the International
-  Union of Soil Science (IUSS),   Moscow, May 2017
+  Union of Soil Science (IUSS),   Moscow, May 2018
 markdown: kramdown
 permalink: pretty
