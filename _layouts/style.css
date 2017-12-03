@@ -1,5 +1,5 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
 header.intro-back{
-  background-image: url("IMAGE_URL"), linear-gradient(#eb01a5, #d13531);     
+  background-image: url(../../img/intro-back.jpg), linear-gradient(#eb01a5, #d13531);     
 }
