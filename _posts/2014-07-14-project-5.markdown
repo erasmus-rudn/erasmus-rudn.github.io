@@ -9,9 +9,6 @@ img: fa-suitcase
 alt: Conditions
 project-date: April 2014
 client: Start Bootstrap
-description: 3MUGIS-2018 summer school will host international groups up to 30-35
-  students. Students will be provided with accommodation at the university campus,
-  two meals per day and all necessary material for courses. Visa support, including
-  preparation of the invitation letters, will be also provided by the organizers
+description: 3MUGIS-2018 summer school will host international groups up to 35-50 participants. Participation fees will cover accommodation in the student campus, two meals per day and all materials necessary for courses. Participation fees for the filed tour include all the travelling, accommodation and living costs. The participation fee is 400 US dollars for one of the parts (Moscow/ field tour) and 800 US dollars for both. 3MUGIS-2018 participants will be registered for the international conference Smart and Sustainable Cities free of charge. All the foreign participants will also receive visa support and any other assistance with organization of the trip to Moscow.
 ---
 
