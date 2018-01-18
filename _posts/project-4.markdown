@@ -1,4 +1,14 @@
 ---
-title: 2018 01 18 Project 4
+title: Registration fees
+date: 2014-07-15 00:00:00 Z
+categories:
+- Web Development
+layout: default
+modal-id: 4
+img: fa-credit-card
+alt: fees
+project-date: April 2014
+client: Start Bootstrap
+description: <table><tr><td>Category of participants</td><td>Summer school (May 21-26)</td><td>Field tour (May 26-31)</td><td>SSC conference (May 23-36)</td></tr><tr><td>Foreign participants</td><td>400$</td><td>400$</td><td>0$</td></tr><tr><td>Russian participants</td><td>10000 RUB</td><td>10000 RUB</td><td>0 RUB</td></tr><tr><td>Russian participants from Moscow (accommodation in the dormitory is not available)</td><td>7500 RUB</td><td>7500 RUB</td><td>0 RUB</td></tr></table>
 ---
 
