@@ -6,7 +6,7 @@ categories:
 layout: default
 modal-id: 4
 img: fa-credit-card
-alt: fees
+alt: Registration fees
 project-date: April 2014
 client: Start Bootstrap
 description: "<table><tr><td>Category of participants</td><td>Summer school (May 21-26)</td><td>Field
