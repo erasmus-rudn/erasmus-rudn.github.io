@@ -14,7 +14,8 @@ description: <table class="table table-condensed"><tbody><tr align="right"><th a
   conference (May 23-36)</th></tr><tr align="right"><td align="left">Foreign participants</td><td>400$</td><td>400$</td><td>0$</td></tr><tr
   align="right"><td align="left">Russian participants</td><td>10000 RUB</td><td>10000
   RUB</td><td>0 RUB</td></tr><tr align="right"><td align="left">Russian participants
-  from Moscow (accommodation in the dormitory is not available)</td><td>7500 RUB</td><td>7500
+  from Moscow (accommodation in student campus will be available for extra 5000 RUB for the whole
+  3MUGIS duration)</td><td>7500 RUB</td><td>7500
   RUB</td><td>0 RUB</td></tr></tbody></table><p style="font-size:15px">Russian participants
   (accommodation in student campus will be available for extra 5000 RUB for the whole
   3MUGIS duration)</p>
