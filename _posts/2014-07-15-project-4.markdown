@@ -15,6 +15,6 @@ description: <table class="table table-condensed"><tbody><tr align="right"><th a
   align="right"><td align="left">Russian participants</td><td>10000 RUB</td><td>10000
   RUB</td><td>0 RUB</td></tr><tr align="right"><td align="left">Russian participants
   from Moscow (accommodation in the dormitory is not available)</td><td>7500 RUB</td><td>7500
-  RUB</td><td>0 RUB</td></tr></tbody></table>
+  RUB</td><td>0 RUB</td></tr></tbody></table><p>Russian participants (accommodation in student campus will be available for extra 5000 RUB for the whole 3MUGIS duration)</p>
 ---
 
