@@ -478,3 +478,9 @@ footer .footer-below {
 #payments{
     margin-top:-75px
 }
+.carousel-inner>.item>img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
