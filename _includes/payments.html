@@ -11,7 +11,7 @@
  <ol>
    <li> Payment by an invoice – MESOL LLC will send you an invoice for the chosen services. All possible bank commissions, fees or other charges are to be fully paid by participant. If any commissions, fees or other charges are passed to MESOL LLC, participant will be required to compensate MESOL LLC for them.
 </li>
-   <li> Payment by credit card – for online payment please use the <a href="#portfolioModal-233" class="portfolio-link" data-toggle="modal">
+   <li> Payment by credit card – for online payment please use the <a href="#portfolioModal-payment" class="portfolio-link" data-toggle="modal">
 link - payment by credit card<a>. In case of payment by the credit card with foreign currency (not rubles) the sum will be convert to Russian rubles at the rate of emitting bank (the bank which issued the credit card). Operation of withdrawing from the Customer's credit card is carrying out in rubles.
 </li>
  </ol>
@@ -26,20 +26,45 @@ link - payment by credit card<a>. In case of payment by the credit card with for
  </dl> 
  <style>.tinkoffPayRow{display:block;margin:1%;width:160px;}</style>
 <script src="https://securepay.tinkoff.ru/html/payForm/js/tinkoff.js"></script>
-<form name="TinkoffPayForm" onsubmit="pay(this); return false;">
-	<input class="tinkoffPayRow" type="hidden" name="terminalkey" value="1516632388055">
-	<input class="tinkoffPayRow" type="hidden" name="frame" value="true">
-	<input class="tinkoffPayRow" type="hidden" name="language" value="en">
-    <input class="tinkoffPayRow" type="text" placeholder="Payment amount" name="amount" required>
-    <input class="tinkoffPayRow" type="hidden" placeholder="Order number" name="order">
-    <input class="tinkoffPayRow" type="hidden" placeholder="Order description" name="description">
-    <input class="tinkoffPayRow" type="text" placeholder="Name" name="name" required >
-    <input class="tinkoffPayRow" type="text" placeholder="E-mail" name="email" required>
-    <input class="tinkoffPayRow" type="hidden" placeholder="Phone" name="phone">
-    <input class="tinkoffPayRow" type="submit" value="Pay">
-</form>
 </div>
 </div>
 </div>
 </div>
 </section>
+<div class="portfolio-modal modal fade" id="portfolioModal-payment" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Credit card payment</h2>
+                            <hr class="star-primary">
+                            <!--<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">-->
+                            	<form name="TinkoffPayForm" onsubmit="pay(this); return false;">
+					<input class="tinkoffPayRow" type="hidden" name="terminalkey" value="1516632388055">
+					<input class="tinkoffPayRow" type="hidden" name="frame" value="true">
+					<input class="tinkoffPayRow" type="hidden" name="language" value="en">
+				    <input class="tinkoffPayRow" type="text" placeholder="Payment amount" name="amount" required>
+				    <input class="tinkoffPayRow" type="hidden" placeholder="Order number" name="order">
+				    <input class="tinkoffPayRow" type="hidden" placeholder="Order description" name="description">
+				    <input class="tinkoffPayRow" type="text" placeholder="Name" name="name" required >
+				    <input class="tinkoffPayRow" type="text" placeholder="E-mail" name="email" required>
+				    <input class="tinkoffPayRow" type="hidden" placeholder="Phone" name="phone">
+				    <input class="tinkoffPayRow" type="submit" value="Pay">
+				</form>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>	
+	
+	
+	
