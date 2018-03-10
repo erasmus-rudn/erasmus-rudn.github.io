@@ -5,9 +5,7 @@ img: fa-ruble-sign
 alt: Conditions
 project-date: April 2014
 client: Start Bootstrap
-description:
-
-##Payments
+description:##Payments
 
 The beneficiary of all payments is MESOL LLC – the official Summer school operator.
 
