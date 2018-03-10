@@ -1,0 +1,45 @@
+---
+title: Payments
+date: 2014-07-19 00:00:00 Z
+categories: travel
+layout: default
+modal-id: 5
+img: fa-ruble-sign
+alt: Conditions
+project-date: April 2014
+client: Start Bootstrap
+description:
+<section id="payments">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 ">
+<h2 align="center">Payments</h2>
+<hr class="star-primary">
+<p>The beneficiary of all payments is MESOL LLC – the official Summer school operator.</p>
+<div class="col-md-7">
+<p>To make a payment of the registration fee and for the ordered services please choose one on the following kinds of payment:</p>
+ <ol>
+   <li> Payment by an invoice – MESOL LLC will send you an invoice for the chosen services. All possible bank commissions, fees or other charges are to be fully paid by participant. If any commissions, fees or other charges are passed to MESOL LLC, participant will be required to compensate MESOL LLC for them.
+</li>
+   <li> Payment by credit card – for online payment please use the <a href="#portfolioModal-payment" class="portfolio-link" data-toggle="modal">
+link - payment by credit card</a>. In case of payment by the credit card with foreign currency (not rubles) the sum will be convert to
+Russian rubles at the rate of emitting bank (the bank which issued the credit card). Operation of withdrawing from the Customer's credit card is carrying out in rubles.
+</li>
+ </ol>
+ </div>
+<div class="col-md-offset-2 col-md-3">
+<p>Company details:</p>
+<dl>
+   <dd >Beneficiary:</dd><dt> MESOL LLC</dt>
+   <dd>Account:<dd><dt>40702978210000000495</dt>
+   <dd>Bank:</dd><dt> Tinkoff Bank</dt>
+   <dd>Bank SWIFT:</dd><dt>TICSRUMMXXX</dt>
+ </dl>
+ <style>.tinkoffPayRow{display:block;margin:1%;width:60%;margin-left:20%}</style>
+<script src="https://securepay.tinkoff.ru/html/payForm/js/tinkoff.js"></script>
+</div>
+</div>
+</div>
+</div>
+</section>
+---
