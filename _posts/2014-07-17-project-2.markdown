@@ -1,7 +1,8 @@
 ---
 title: Duration and venue
 date: 2014-07-17 00:00:00 Z
-categories: details
+categories:
+- details
 layout: default
 modal-id: 2
 img: fa-calendar
