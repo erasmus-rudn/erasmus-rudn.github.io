@@ -1,3 +1,8 @@
+---
+title: Project 15
+date: 2014-07-19 00:00:00 Z
+---
+
 categories: travel
 layout: default
 modal-id: 5
