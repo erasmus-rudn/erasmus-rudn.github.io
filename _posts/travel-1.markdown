@@ -1,4 +1,24 @@
----
-title: 2018 03 10 Travel 1
----
+categories: travel
+layout: default
+modal-id: 5
+img: fa-ruble-sign
+alt: Conditions
+project-date: April 2014
+client: Start Bootstrap
+description:
 
+##Payments
+
+The beneficiary of all payments is MESOL LLC – the official Summer school operator.
+
+To make a payment of the registration fee and for the ordered services please choose one on the following kinds of payment:
+Payment by an invoice – MESOL LLC will send you an invoice for the chosen services. All possible bank commissions, fees or other charges are to be fully paid by participant. If any commissions, fees or other charges are passed to MESOL LLC, participant will be required to compensate MESOL LLC for them.
+Payment by credit card – for online payment please use the link - payment by credit card. In case of payment by the credit card with foreign currency (not rubles) the sum will be convert to Russian rubles at the rate of emitting bank (the bank which issued the credit card). Operation of withdrawing from the Customer's credit card is carrying out in rubles.
+
+Company details:
+
+ - Beneficiary:  MESOL LLC
+ - Account:  40702978210000000495
+ - Bank:    Tinkoff Bank
+ - Bank SWIFT:  TICSRUMMXXX
+---
