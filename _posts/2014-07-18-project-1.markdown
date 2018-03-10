@@ -2,7 +2,7 @@
 title: History
 date: 2014-07-18 00:00:00 Z
 categories:
-- Web Development
+- details
 layout: default
 modal-id: 1
 img: fa-info-circle
