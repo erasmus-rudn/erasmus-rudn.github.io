@@ -61,40 +61,6 @@
             </div>
         </div>
     </section>
-<div class="portfolio-modal modal fade" id="portfolioModal-payment" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 col-lg-offset-2">
-                    <div class="modal-body">
-                        <h2>Credit card payment </h2>
-                        <hr class="star-primary">
-                        <!--<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">-->
-                            <form name="TinkoffPayForm" onsubmit="pay(this); return false;">
-                                <input class="tinkoffPayRow" type="hidden" name="terminalkey" value="1516783603864">
-                                <input class="tinkoffPayRow" type="hidden" name="frame" value="true">
-                                <input class="tinkoffPayRow" type="hidden" name="language" value="en">
-                                <input class="tinkoffPayRow" type="text" placeholder="Payment amount" name="amount" required>
-                                <input class="tinkoffPayRow" type="hidden" placeholder="Order number" name="order">
-                                <input class="tinkoffPayRow" type="hidden" placeholder="Order description" name="description">
-                                <input class="tinkoffPayRow" type="text" placeholder="Name" name="name" required >
-                                <input class="tinkoffPayRow" type="text" placeholder="E-mail" name="email" required>
-                                <input class="tinkoffPayRow" type="hidden" placeholder="Phone" name="phone">
-                                <input class="tinkoffPayRow" type="submit" value="Pay">
-                            </form>
-                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 
 <div class="portfolio-modal modal fade" id="portfolioModal-15" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
@@ -401,6 +367,40 @@
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                     </div>
 
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="portfolioModal-payment" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Credit card payment </h2>
+                        <hr class="star-primary">
+                        <!--<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">-->
+                            <form name="TinkoffPayForm" onsubmit="pay(this); return false;">
+                                <input class="tinkoffPayRow" type="hidden" name="terminalkey" value="1516783603864">
+                                <input class="tinkoffPayRow" type="hidden" name="frame" value="true">
+                                <input class="tinkoffPayRow" type="hidden" name="language" value="en">
+                                <input class="tinkoffPayRow" type="text" placeholder="Payment amount" name="amount" required>
+                                <input class="tinkoffPayRow" type="hidden" placeholder="Order number" name="order">
+                                <input class="tinkoffPayRow" type="hidden" placeholder="Order description" name="description">
+                                <input class="tinkoffPayRow" type="text" placeholder="Name" name="name" required >
+                                <input class="tinkoffPayRow" type="text" placeholder="E-mail" name="email" required>
+                                <input class="tinkoffPayRow" type="hidden" placeholder="Phone" name="phone">
+                                <input class="tinkoffPayRow" type="submit" value="Pay">
+                            </form>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
