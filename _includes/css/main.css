@@ -484,3 +484,15 @@ footer .footer-below {
     max-width: 100%;
     height: auto;
 }
+.modal-body #payments {
+    text-align:left
+}
+
+.modal-body #payments h2, .modal-body #payments h4{
+    padding:1em;
+    text-align:center
+}
+
+.modal-body table>td {
+    border:1px black;
+}
