@@ -496,3 +496,6 @@ footer .footer-below {
 .modal-body table>td {
     border:1px black;
 }
+.modal-body #payments ul li, .modal-body #payments ol li {
+    font-size:20px;
+}
