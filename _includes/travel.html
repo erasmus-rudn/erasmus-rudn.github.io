@@ -9,53 +9,407 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.categories.travel %}
+
                     <div class="col-sm-3 portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+                        <a href="#portfolioModal-15" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <i class="fa {{ post.img }} fa-5x" aria-hidden="true"></i>
-                            <div class="portfolio-item-text">{{ post.alt }}</div>
+                            <i class="fa fa-ruble-sign fa-5x" aria-hidden="true"></i>
+                            <div class="portfolio-item-text">Payments</div>
                         </a>
                     </div>
-                {% endfor %}
+
+                    <div class="col-sm-3 portfolio-item">
+                        <a href="#portfolioModal-16" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <i class="fa fa-building fa-5x" aria-hidden="true"></i>
+                            <div class="portfolio-item-text">Accomodation</div>
+                        </a>
+                    </div>
+
+                    <div class="col-sm-3 portfolio-item">
+                        <a href="#portfolioModal-17" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <i class="fa fa-map-signs fa-5x" aria-hidden="true"></i>
+                            <div class="portfolio-item-text">Visa support</div>
+                        </a>
+                    </div>
+
+                     <div class="col-sm-3 portfolio-item">
+                        <a href="#portfolioModal-18" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <i class="fa fa-bus fa-5x" aria-hidden="true"></i>
+                            <div class="portfolio-item-text">Transfers</div>
+                        </a>
+                    </div>
+
             </div>
         </div>
     </section>
 <div class="portfolio-modal modal fade" id="portfolioModal-payment" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
                 </div>
             </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Credit card payment </h2>
-                            <hr class="star-primary">
-                            <!--<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">-->
-                                <form name="TinkoffPayForm" onsubmit="pay(this); return false;">
-                    <input class="tinkoffPayRow" type="hidden" name="terminalkey" value="1516783603864">
-                    <input class="tinkoffPayRow" type="hidden" name="frame" value="true">
-                    <input class="tinkoffPayRow" type="hidden" name="language" value="en">
-                    <input class="tinkoffPayRow" type="text" placeholder="Payment amount" name="amount" required>
-                    <input class="tinkoffPayRow" type="hidden" placeholder="Order number" name="order">
-                    <input class="tinkoffPayRow" type="hidden" placeholder="Order description" name="description">
-                    <input class="tinkoffPayRow" type="text" placeholder="Name" name="name" required >
-                    <input class="tinkoffPayRow" type="text" placeholder="E-mail" name="email" required>
-                    <input class="tinkoffPayRow" type="hidden" placeholder="Phone" name="phone">
-                    <input class="tinkoffPayRow" type="submit" value="Pay">
-                </form>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Credit card payment </h2>
+                        <hr class="star-primary">
+                        <!--<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">-->
+                            <form name="TinkoffPayForm" onsubmit="pay(this); return false;">
+                                <input class="tinkoffPayRow" type="hidden" name="terminalkey" value="1516783603864">
+                                <input class="tinkoffPayRow" type="hidden" name="frame" value="true">
+                                <input class="tinkoffPayRow" type="hidden" name="language" value="en">
+                                <input class="tinkoffPayRow" type="text" placeholder="Payment amount" name="amount" required>
+                                <input class="tinkoffPayRow" type="hidden" placeholder="Order number" name="order">
+                                <input class="tinkoffPayRow" type="hidden" placeholder="Order description" name="description">
+                                <input class="tinkoffPayRow" type="text" placeholder="Name" name="name" required >
+                                <input class="tinkoffPayRow" type="text" placeholder="E-mail" name="email" required>
+                                <input class="tinkoffPayRow" type="hidden" placeholder="Phone" name="phone">
+                                <input class="tinkoffPayRow" type="submit" value="Pay">
+                            </form>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+</div>
+
+<div class="portfolio-modal modal fade" id="portfolioModal-15" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <section id="payments">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12 ">
+                                        <h2 align="center">Payments</h2>
+                                        <hr class="star-primary">
+                                        <p>The beneficiary of all payments is MESOL LLC – the official Summer school operator.</p>
+                                        <div class="col-md-7">
+                                            <p>To make a payment of the registration fee and for the ordered services please choose one on the following kinds of payment:</p>
+                                            <ol>
+                                                <li> Payment by an invoice – MESOL LLC will send you an invoice for the chosen services. All possible bank commissions, fees or other charges are to be fully paid by participant. If any commissions, fees or other charges are passed to MESOL LLC, participant will be required to compensate MESOL LLC for them.
+                                                </li>
+                                                <li> Payment by credit card – for online payment please use the <a href="#portfolioModal-payment" class="portfolio-link" data-toggle="modal">
+                                                link - payment by credit card</a>. In case of payment by the credit card with foreign currency (not rubles) the sum will be convert to
+                                                Russian rubles at the rate of emitting bank (the bank which issued the credit card). Operation of withdrawing from the Customer's credit card is carrying out in rubles.
+                                                </li>
+                                            </ol>
+                                        </div>
+                                        <div class="col-md-offset-2 col-md-3">
+                                            <p>Company details:</p>
+                                            <dl>
+                                               <dd >Beneficiary:</dd><dt> MESOL LLC</dt>
+                                               <dd>Account:<dd><dt>40702978210000000495</dt>
+                                               <dd>Bank:</dd><dt> Tinkoff Bank</dt>
+                                               <dd>Bank SWIFT:</dd><dt>TICSRUMMXXX</dt>
+                                             </dl>
+                                             <style>.tinkoffPayRow{display:block;margin:1%;width:60%;margin-left:20%}</style>
+                                            <script src="https://securepay.tinkoff.ru/html/payForm/js/tinkoff.js"></script>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="portfolioModal-16" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <section id="payments">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12 ">
+                                        <h2 align="center">>Accomodation</h2>
+                                            <p>There are several options of accommodation in the vicinity of the Summer school venue, which can be booked through our  Conference operator MESOL LLC at the special rates during the registration or directly through the coordinator of the Conference via e-mail stas@mesol.ru.<p>
+                                            <p>We advise the participants to choose one of the following hotels:</p>
+                                            <p></p>
+                                            <h4>Campus of RUDN University</h4>
+                                            <p><em>Address:</em> Mikluho-Maklaya Street (Yugo-zapadnaya metro station) -  <a href="https://www.google.ru/maps/place/Unnamed+Road,+Москва,+117198/@55.6518691,37.5034626,18z/data=!3m1!4b1!4m13!1m7!3m6!1s0x46b54d4a4ce2feed:0x9f0564856baff3d!2z0JzQuNC60LvRg9GF0L4gLSDQnNCw0LrQu9Cw0Y8g0YPQuy4sINCc0L7RgdC60LLQsA!3b1!8m2!3d55.6380895!4d37.5359!3m4!1s0x46b54d6b56e5acb7:0x90d5fafe1d2f59b8!8m2!3d55.6518691!4d37.5045569" target="_blank">google map</a></p>
+                                            <p><em>Website: </em> <a href="http://eng.rudn.ru/about/our-campus/" target="_blank">http://eng.rudn.ru/about/our-campus/</a></p>
+                                            <table>
+                                                <th>
+                                                    <td>Participants</td>
+                                                    <td>Accommodation during 3MUGIS</td>
+                                                </th>
+                                                <tr>
+                                                    <td>Foreign participants</td>
+                                                    <td>Free of&nbsp;charge</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Russian participants</td>
+                                                    <td> 5000 RUB</td>
+                                                </tr>
+                                            </table>
+                                            <p></p>
+                                            <p>The participant will be&nbsp;placed in&nbsp;2&ndash;3 local rooms. The exact address will be&nbsp;provided later</p>
+                                            <h4>Salut ****<h4 />
+                                            <p><em>Address</em>: Leninsky prospect, 158 (<nobr>Yugo-zapadnaya</nobr> metro station)&nbsp;&mdash; <a href=
+                                                "https://www.google.ru/maps/place/Салют/@55.6519578,37.4835535,18z/data=!4m5!3m4!1s0x46b54d71a08112e5:0x1b67d08c6b23371e!8m2!3d55.651304!4d37.4830019" target="_blank">google map</p>
+                                            <p><em>Website:</em><a href="http://www.hotelsalut.ru/en/" target="_blank">http://www.hotelsalut.ru/en/</a></p>
+                                            <table>
+                                                <th>
+                                                    <td rowspan=2 >Room category </td>
+                                                    <td colspan=2>Type of&nbsp;accommodation</td>
+
+                                                </th>
+                                                <tr>
+                                                    <td>Single  </td>
+                                                    <td>Double (twin)</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>Standart room</td>
+                                                    <td> 3800 RUB</td>
+                                                    <td> 5000 RUB</td>
+                                                </tr>
+                                            </table>
+
+                                            <p><nobr>Check-in</nobr> to&nbsp;the hotel from 14:00. <nobr>Check-out</nobr> at&nbsp;12:00.<br />
+                                            Breakfast is&nbsp;included in&nbsp;the room rate.</p>
+                                            <p></p>
+                                            <h4>Hostels Rus<h4 />
+                                            <p><em>Address:</em>Leninsky Avenue 152 Bldg. 1 (<nobr>Yugo-zapadnaya</nobr> metro station)&nbsp;&mdash; <a href="https://www.google.ru/maps/place/Hostels+Rus+-+Leninsky+prospekt/@55.6542867,37.4879325,17z/data=!3m1!4b1!4m5!3m4!1s0x46b54d7257ed2cbb:0x78caf047401f0f6b!8m2!3d55.6542867!4d37.4901212" target="_blank">google map</a></p>
+                                            <p><em>Website:</em><a href="http://leninhostelrus.ru/">http://leninhostelrus.ru/</a></p>
+                                            <table>
+                                                <th>
+                                                    <td>Room category </td>
+                                                    <td>Price for 1 pax</td>
+                                                </th>
+                                                <tr>
+                                                    <td>bed in&nbsp;a&nbsp;quadruple room </td>
+                                                    <td>Free of&nbsp;charge</td>
+                                                </tr>
+                                                <tr>
+                                                    <td>bed in&nbsp;an&nbsp;<nobr>eight-bed</nobr> room</td>
+                                                    <td> 750 RUB</td>
+                                                </tr>
+                                            </table>
+                                            <p></p>
+                                            <<p><nobr>Check-in</nobr> to&nbsp;the hotel from 13:00. <nobr>Check-out</nobr> at&nbsp;12:00.<br />
+                                            Continental breakfast is&nbsp;included in&nbsp;the room rate.</p>
+                                            <p><strong>Prices</strong> are in rubles per room per night.</p>
+
+                                            <p><strong>Cancellation policy.</strong> Cancellation of accommodation without penalty is possible till 12:00 (Moscow time) May 01, 2018. In case of late cancellation, including non-arrival, the penalty will be 100% of a room rate for the entire period of booking. Change of the period of accommodation without penalty till May 10, 2018, otherwise a penalty for 1 unclaimed night.</p>
+
+                                            <p><strong>Payment. </strong>Accommodation shall be paid in full till May 01, 2018. In case of not payment receipt to the specified date, all unpaid numbers / nights will be cancelled.</p>
+
+                                            <p><strong>Please be informed that the number of rooms is limited. MESOL LLC reserves the right to change the price or availability of hotels/rooms.</strong></p>
+
+                                            <p><strong>If you need to book another hotel / category of room (according to your budget or preferable location), please contact the coordinator of the Conference and we will send you all required information</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="portfolioModal-17" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <section id="payments">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12 ">
+                                        <h2 align="center">>Visa support</h2>
+                                         <p>Normally every foreign visitor should apply for a Russian Visa to enter Russia except the citizens of Azerbaijan, Armenia, Belorussia, Kazakhstan, Kyrgyzstan, Moldova, Tajikistan and Uzbekistan. Citizens of Argentina, Brazil, Venezuela, Israel, Colombia and Chile can enter Russia without a visa for the period of 90 days. Citizens of Cuba, Thailand, Serbia (special requirements for passport), Montenegro and Ecuador can stay in Russia without a visa for up to 30 days.</p>
+
+                                        <p>Conference operator MESOL LLC can help you with the necessary documents to receive Russian tourist visa.</p>
+
+                                        <p>You can indicate an information about the necessity in visa support documents while filling in the registration form or just inform the coordinator of the Conference by e-mail <a href="mailto:stas@mesol.ru">stas@mesol.ru</a></p>
+
+                                        <p>If you book a room through Conference operator MESOL LLC, the visa support documents will be cost 500 RUB. <u>Please be informed that for citizens of some countries (for example China, India) the visa support documents will be more expensive + the Russian consulates in their countries can require the original of the documents.</u></p>
+
+                                        <p>Visa support documents:</p>
+
+                                        <ul>
+                                            <li>Tourist voucher</li>
+                                            <li>Foreign tourist reception confirmation</li>
+                                        </ul>
+
+                                        <p>To provide you with visa support documents we need the copy of your passport (with the validity exceeding the planned date of departure from Russia by 6 month) and the whole period of your stay in Russia (otherwise the visa support documents will be provided only for the period of booking a room through Conference operator MESOL LLC).</p>
+
+                                        <p>We recommend you to visit the website of Russian Embassy (Consulate) of your residence country and check the list of the documents you need to prepare.</p>
+
+                                        <p>Generally they are:</p>
+
+                                        <ol>
+                                            <li>Passport (should be valid no less than 6 months after the expiry date of the visa you are applying for)</li>
+                                            <li>1 or 2 photos</li>
+                                            <li>Application form for Russian tourist visa (please note in the application form that your purpose of visit is tourism or aim tourism)</li>
+                                            <li>Tourist voucher</li>
+                                            <li>Foreign tourist reception confirmation</li>
+                                            <li>Confirmation of the hotel reservation.</li>
+                                            <li>Medical insurance</li>
+                                        </ol>
+
+                                        <p>In application form for Russian tourist visa you will need to indicate:</p>
+
+                                        <ul>
+                                            <li>Purpose of visit – tourism / aim tourism (<strong>Please be informed!!!</strong> If you mention that you are going to the Conference the Russian Consulate will ask you to apply for business visa. In this case you will need to mention that your purpose of visit is TOURISM)</li>
+                                            <li>Name of Host company – Visa Centre, LLC</li>
+                                            <li>Address of the host company - Leninsky Avenue, 153 А, office 706, St. Petersburg, 191186</li>
+                                            <li>Reference number - 007612</li>
+                                            <li>Confirmation # = number of the tourist voucher</li>
+                                        </ul>
+
+                                        <p><strong>The visa support documents will be provided only after the payment of the registration fee and visa support documents / post delivery if necessary</strong></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="portfolio-modal modal fade" id="portfolioModal-18" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <section id="payments">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12 ">
+                                        <h2 align="center">Transfers</h2>
+
+                                        <p>Conference operator MESOL LLC can arrange the transfer from the airport to your hotel and back.</p>
+
+                                        <div class="table-responsive">
+                                            <table class="table">
+                                                <tbody>
+                                                    <tr>
+                                                        <th>
+                                                            <p>Class of the car</p>
+                                                        </th>
+                                                        <th>
+                                                            <p>Description</p>
+                                                        </th>
+                                                        <th width="200px">
+                                                            <p>Price</p>
+
+                                                            <p>(one way)</p>
+                                                        </th>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Comfort (up to 3 pax)</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>Volkswagen Jetta, Ford Focus, Mazda 3 and etc.</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>2400</p>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <p>Business (up to 3 pax)</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>Nissan Tiana, Toyota Camry, Ford Mondeo and etc.</p>
+                                                        </td>
+                                                        <td>
+                                                            <p>3200</p>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                        <p><strong>Prices </strong>are in <strong>rubles </strong>per car to one way</p>
+
+                                        <p><strong>Please be informed</strong>. If you don’t see the driver, please don’t go anywhere and contact the coordinator of the Conference. To order it please fill in full information during the registration or contact the Conference coordinator.</p>
+
+                                        <p><strong>Cancellation policy</strong>. Cancellation without penalty is possible till 12:00 (Moscow time) May 01, 2018. In case of late cancellation, payment does not return.</p>
+
+                                        <p><strong>Payment</strong>. All services shall be paid completely till May 01, 2018. In case of not payment receipt to the specified date, all unpaid services will be cancelled.</p>
+
+                                        <p>Also you can reach the Conference venue / your hotel from the airport yourself using <a href="https://aeroexpress.ru/en/aero.html">Aeroexpress</a>.&nbsp;</p>
+
+                                        <p>From the <strong>Sheremetyevo </strong>airport the Aeroexpress arrives at the <strong>Belorussky </strong>Rail Terminal (Belorusskaya metro station)</p>
+
+                                        <p>From the <strong>Domodedovo </strong>airport the Aeroexpress arrives at the <strong>Paveletsky </strong>Rail Terminal (Paveletskaya metro station)</p>
+
+                                        <p>From the <strong>Vnukovo </strong>airport the Aeroexpress arrives at the <strong>Kievsky </strong>Rail Terminal (Kievskaya metro station)</p>
+
+                                        <p>Then use the subway to get the station you need.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
