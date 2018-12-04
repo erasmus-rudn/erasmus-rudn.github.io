@@ -9,12 +9,14 @@ img: fa-calendar
 alt: Duration and venue
 project-date: April 2014
 client: Start Bootstrap
-description: 3MUGIS-2019 will take place in Russia July 22 – August 10 and will include two
-  parts. Five days of focused on-campus training in skills relevant to the sites visited
-  will occur at RUDN University in Moscow city. They will be followed by an expanded
-  two-week field tour from the White Sea (Kandalaksha town, 67N; 32E) to the Azov Sea (Taganrog town, 47N; 38E).
-  Five zones (subarctic, taiga, deciduous forest, forest-steppes and steppes) will be
-  studied in regard to key issues of urban development, including industrial pollution,
-  forest management, agricultural development, and urban-rural interactions. Urban soils
-  and green infrastructure at each of the region will be studied in comparison to natural references.
+description: 3MUGIS-2019 will take place in Russia July 22 – August 10 and will include
+  two parts. Five days of focused on-campus training in skills relevant to the sites
+  visited will occur at RUDN University in Moscow city. They will be followed by an
+  expanded two-week field tour from the White Sea (Kandalaksha town, 67N; 32E) to
+  the Azov Sea (Taganrog town, 47N; 38E). Five zones (subarctic, taiga, deciduous
+  forest, forest-steppes and steppes) will be studied in regard to key issues of urban
+  development, including industrial pollution, forest management, agricultural development,
+  and urban-rural interactions. Urban soils and green infrastructure at each of the
+  region will be studied in comparison to natural references.
 ---
+

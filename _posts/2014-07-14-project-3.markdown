@@ -10,9 +10,9 @@ alt: Conditions
 project-date: April 2014
 client: Start Bootstrap
 description: 3MUGIS-2019 summer school will host international groups up to 35 participants.
- Participation fees will cover accommodation, two meals per day, traveling inside Russia
- and all materials necessary for courses. The participation fee is anticipated to be
- 1,200 euro. All of the foreign participants will also receive visa support and any
- other ass instance with organization of their trip to Moscow.
-
+  Participation fees will cover accommodation, two meals per day, traveling inside
+  Russia and all materials necessary for courses. The participation fee is anticipated
+  to be 1,200 euro. All of the foreign participants will also receive visa support
+  and any other ass instance with organization of their trip to Moscow.
 ---
+
