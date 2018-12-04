@@ -1,0 +1,18 @@
+<section id="partners">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Partners</h2>
+        <hr class="star-light">
+      </div>
+    </div>
+    <div class="row">
+      {% for card in page.partners %}
+      <div class="partner col-xs-12 col-sm-6 col-md-4 col-lg-4" style="text-align:center; margin-bottom:2em; min-height:280px">
+              <img typeof="foaf:Image" src="{{card.img}}" style="max-height:150px;max-width:300px;margin-bottom:1em">
+              <h4 align="center">{{card.text}}</h4>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

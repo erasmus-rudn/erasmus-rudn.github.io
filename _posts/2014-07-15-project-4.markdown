@@ -9,7 +9,8 @@ img: fa-credit-card
 alt: Registration fees
 project-date: April 2014
 client: Start Bootstrap
-description: <table class="table table-condensed"><tbody><tr><th align="left">Category
+description: <h4>Registration fees values for 2019 under estimation. In 2018 they were</h4>
+ <table class="table table-condensed"><tbody><tr><th align="left">Category
   of participants</th><th width="140px" style="text-align:right">Summer school <br>(May
   21-26)</th><th width="140px" style="text-align:right">Field tour<br>(May 26-31)</th><th
    width="140px" style="text-align:right">SSC conference <br>(May 23-26)</th></tr><tr
@@ -19,4 +20,3 @@ description: <table class="table table-condensed"><tbody><tr><th align="left">Ca
   RUB</td><td style="vertical-align:middle">20000 RUB</td><td style="vertical-align:middle">0
   RUB</td></tr></tbody></table>
 ---
-
