@@ -16,7 +16,16 @@ link - payment by credit card</a>. In case of payment by the credit card with fo
 Russian rubles at the rate of emitting bank (the bank which issued the credit card). Operation of withdrawing from the Customer's credit card is carrying out in rubles.
 </li>
  </ol>
- </div>
+<p>The Organizing committee provides the opportunity to return the paid participation fee.
+If you have paid a participation fee, but are not able to take part in the Summer school, please send a message to the e-
+mail address stas@mesol.ru with the subject “Refund Name Surname” describing the reasons of the cancellation. The
+Organizing committee will consider the appeal and in case of positive decision will make a refund.</p>
+	<p><em>Please note:</em></p>
+<ul>
+	<li> All refund requests are accepted till March 31, 2019</li>
+	<li>Processing fee and all commissions are not refundable</li>
+</ul>
+</div>
 <div class="col-md-offset-2 col-md-3">
 <p>Company details:</p>
 <dl>
@@ -47,18 +56,18 @@ Russian rubles at the rate of emitting bank (the bank which issued the credit ca
                             <h2>Credit card payment </h2>
                             <hr class="star-primary">
                             <!--<img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">-->
-                            	<form name="TinkoffPayForm" onsubmit="pay(this); return false;">
-					<input class="tinkoffPayRow" type="hidden" name="terminalkey" value="1516783603864">
+				<form name="TinkoffPayForm" onsubmit="pay(this); return false;">
+					<input class="tinkoffPayRow" type="hidden" name="terminalkey" value="??????????">
 					<input class="tinkoffPayRow" type="hidden" name="frame" value="true">
 					<input class="tinkoffPayRow" type="hidden" name="language" value="en">
-				    <input class="tinkoffPayRow" type="text" placeholder="Payment amount" name="amount" required>
-				    <input class="tinkoffPayRow" type="hidden" placeholder="Order number" name="order">
-				    <input class="tinkoffPayRow" type="hidden" placeholder="Order description" name="description">
-				    <input class="tinkoffPayRow" type="text" placeholder="Name" name="name" required >
-				    <input class="tinkoffPayRow" type="text" placeholder="E-mail" name="email" required>
-				    <input class="tinkoffPayRow" type="hidden" placeholder="Phone" name="phone">
-				    <input class="tinkoffPayRow" type="submit" value="Pay">
-				</form>
+					<input class="tinkoffPayRow" type="hidden" name="receipt" id="zakcopy" value="">
+					<input class="tinkoffPayRow" id="summzak" name="amount" required="" type="text" placeholder="Amount" />
+					<input class="tinkoffPayRow" id="usluga" name="description" required="" type="text" placeholder="Service"/>
+					<input class="tinkoffPayRow" name="name" required="" type="text" placeholder="Name"/>
+					<input class="tinkoffPayRow" name="email" required="" type="text" placeholder="E-mail" />
+					<input class="tinkoffPayRow" name="phone" required="" type="text" placeholder="Phone" />
+					<input class="tinkoffPayRow" type="submit" value="To pay" />
+				</form><script type="text/javascript">var summzak = document.getElementById('summzak'), usluga = document.getElementById('usluga'); addEventListener('input', function(){ document.getElementById('zakcopy').value = '{"EmailCompany": "info@mesol.ru", "Taxation": "usn_income_outcome", "Items": [{"Name": "'+usluga.value+'","Price": '+(summzak.value*100)+',"Quantity": 1.00, "Amount": "'+(summzak.value*100)+'", "PaymentMethod": "full_prepayment", "PaymentObject": "service", "Tax": "none"}]}'});</script>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -66,3 +75,6 @@ Russian rubles at the rate of emitting bank (the bank which issued the credit ca
             </div>
         </div>
     </div>
+<style>.tinkoffPayRow{display:block;margin:0,01%;width:160px;}</style><script src="https://securepay.tinkoff.ru/html/payForm/js/tinkoff_v2.js"></script>
+
+ [:]
