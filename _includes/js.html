@@ -11,7 +11,7 @@
       $(function () {	
      $.get("http://ipinfo.io", function (response) {
        // the "data" object contains the info
-         echo(response.country);
+         console.log(response.country);
        if (response.country == 'CN') {
           $("#gf").hide()
        } else {
