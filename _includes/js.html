@@ -14,7 +14,13 @@
           type: 'GET',
           success: function(json)
           {
-            console.log("My country is: " + json.country);
+            console.log("My country is China? : " + json.country);
+            if (json.country == 'China') {
+                $("#gf").hide()
+            } else {
+                $("#bf").hide()
+                
+            }  
           },
           error: function(err)
           {
