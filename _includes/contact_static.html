@@ -208,7 +208,9 @@
  });	
 	
 </script>
+-->
 <script type="text/javascript">
+!function(a,b){"function"==typeof define&&define.amd?define(b):a.UserInfo=b()}(this,function(){var a="http://api.userinfo.io/userinfos";return{getInfo:function(b,c){var d;d=window.XMLHttpRequest?new XMLHttpRequest:new ActiveXObject("Microsoft.XMLHTTP"),d.onreadystatechange=function(){if(4==d.readyState)if(200==d.status)b&&b(JSON.parse(d.responseText));else{var a;a=null!==d.responseText&&""!==d.responseText?JSON.parse(d.responseText):{message:"Error with HTTP status code: "+d.status},c&&c(a)}},d.open("GET",a,!0),d.send()}}});
 UserInfo.getInfo(function(data) {
   // the "data" object contains the info
   if (data.country.code == 'CN') {
@@ -221,4 +223,4 @@ UserInfo.getInfo(function(data) {
   // the "err" object contains useful information in case of an error
 });
 </script>
--->
+
