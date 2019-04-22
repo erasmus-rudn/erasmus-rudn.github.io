@@ -8,7 +8,21 @@
     <script src="{{ "/js/jquery.easing.min.js" }}"></script>
     <script src="{{ "/js/classie.js" }}"></script>
     <script src="{{ "/js/cbpAnimatedHeader.js" }}"></script>
-
+    <script type="text/javascript">
+     $(function () {	
+    $.get("http://ipinfo.io", function (response) {
+      // the "data" object contains the info
+      if (response.country == 'CN') {
+         $("#gf").hide()
+      } else {
+       $("#bf").hide()
+        // Load your google fonts
+      }
+    }, function(err) {
+      // the "err" object contains useful information in case of an error
+    });
+     });
+</script>
     <!-- Contact Form JavaScript -->
     <script src="{{ "/js/jqBootstrapValidation.js" }}"></script>
     {% if site.contact == "static" %}
