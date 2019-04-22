@@ -1,0 +1,40 @@
+<!-- jQuery Version 1.11.0 -->
+    <script src="{{ "/js/jquery-1.11.0.js" }}"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{{ "/js/bootstrap.min.js" }}"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://raw.githubusercontent.com/erasmus-rudn/erasmus-rudn.github.io/master/js/jquery-1.11.0.js"></script>
+    <script src="{{ "/js/classie.js" }}"></script>
+    <script src="{{ "/js/cbpAnimatedHeader.js" }}"></script>
+    <script type="text/javascript">
+      $(function () {	
+     $.get("http://ipinfo.io", function (response) {
+       // the "data" object contains the info
+       if (response.country == 'CN') {
+          $("#gf").hide()
+       } else {
+        $("#bf").hide()
+         // Load your google fonts
+       }
+     }, function(err) {
+       // the "err" object contains useful information in case of an error
+     });
+      });
+    </script>
+    <!-- Contact Form JavaScript -->
+    <script src="{{ "/js/jqBootstrapValidation.js" }}"></script>
+    {% if site.contact == "static" %}
+    <script src="{{ "/js/contact_me_static.js" }}"></script>
+    {% else %}
+     <script src="{{ "/js/contact_me.js" }}"></script>
+    {% endif %}
+
+    <!-- Custom Theme JavaScript -->
+    <script src="{{ "/js/freelancer.js" }}"></script>
+
+    {% if site.contact == "disqus" %}
+    <!-- Disqus Stuff -->
+    {% include js_disqus.html %}
+    {% endif %}
