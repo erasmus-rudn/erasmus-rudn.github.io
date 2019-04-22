@@ -7,10 +7,12 @@
 
 
 <div class="container">
+<div class="row">
+	<div class="col-md-8 .col-md-offset-2">
 <form class="needs-validation" novalidate name="submit-to-google-sheet">	
    <div class="form-row">
     <div class="col-md-4 mb-4">
-      <input name="email" type="email" placeholder="Email" required>
+      <input class="form-control" name="email" type="email" placeholder="Email" required>
     </div>
    </div>
     <div class="col-md-4 mb-4">
@@ -131,6 +133,8 @@
 	</div>
   <button type="submit">Send</button>
 </form>
+		    </div>
+</div>
     </div>
 </div>
 	  
@@ -144,6 +148,8 @@
       .then(response => console.log('Success!', response))
       .catch(error => console.error('Error!', error.message))
   })
+</script>
+<script>
  $(function () {
    var bindDatePicker = function() {
 		$(".date").datetimepicker({
