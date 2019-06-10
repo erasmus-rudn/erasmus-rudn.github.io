@@ -67,7 +67,9 @@ Organizing committee will consider the appeal and in case of positive decision w
 					<input class="tinkoffPayRow" name="email" required="" type="text" placeholder="E-mail" />
 					<input class="tinkoffPayRow" name="phone" required="" type="text" placeholder="Phone" />
 					<input class="tinkoffPayRow" type="submit" value="To pay" />
-				</form><script type="text/javascript">var summzak = document.getElementById('summzak'), usluga = document.getElementById('usluga'); addEventListener('input', function(){ document.getElementById('zakcopy').value = '{"EmailCompany": "info@mesol.ru", "Taxation": "usn_income_outcome", "Items": [{"Name": "'+usluga.value+'","Price": '+(summzak.value*100)+',"Quantity": 1.00, "Amount": "'+(summzak.value*100)+'", "PaymentMethod": "full_prepayment", "PaymentObject": "service", "Tax": "none"}]}'});</script>
+				</form>
+				<script type="text/javascript">var summzak = document.getElementById('summzak'), usluga = document.getElementById('usluga'); addEventListener('input', function(){ document.getElementById('zakcopy').value = '{"EmailCompany": "info@mesol.ru", "Taxation": "usn_income_outcome", "Items": [{"Name": "'+usluga.value+'","Price": '+(summzak.value*100)+',"Quantity": 1.00, "Amount": "'+(summzak.value*100)+'", "PaymentMethod": "full_prepayment", "PaymentObject": "service", "Tax": "none"}]}'});</script>
+				<style>.tinkoffPayRow{display:block;margin:0,01%;width:160px;}</style><script src="https://securepay.tinkoff.ru/html/payForm/js/tinkoff_v2.js"></script>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -75,6 +77,4 @@ Organizing committee will consider the appeal and in case of positive decision w
             </div>
         </div>
     </div>
-<style>.tinkoffPayRow{display:block;margin:0,01%;width:160px;}</style><script src="https://securepay.tinkoff.ru/html/payForm/js/tinkoff_v2.js"></script>
 
- [:]
