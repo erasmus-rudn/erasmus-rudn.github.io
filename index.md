@@ -1,6 +1,7 @@
 ---
 layout: default
-the_year_motto: ANTHROPOGENIC AND NATURAL SOIL LANDSCAPES IN EUROPEAN RUSSIA&#58;FROM SEA TO SEA
+the_year_motto: ANTHROPOGENIC AND NATURAL SOIL LANDSCAPES IN EUROPEAN RUSSIA&#58;FROM
+  SEA TO SEA
 motto_addition: Monitoring, modeling and managing urban soils and green infrastructure
 school_dates: July 6 – 26, 2020, Registration is opened
 intro_general: "<p>The 3MUGIS summer school is an annual event, which addresses relevant contemporary environmental consequences and opportunities of urbanization with special emphasis on soil functions. The event is organized under the umbrella of the International Union of Soil Science (IUSS), RUDN University (Russia) and the Urban Soil Institute (USA) with strong cooperation from universities, institutions and research teams from around the world.</p>
