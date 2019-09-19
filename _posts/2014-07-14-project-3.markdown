@@ -9,9 +9,19 @@ img: fa-suitcase
 alt: Conditions
 project-date: April 2014
 client: Start Bootstrap
+<<<<<<< HEAD
 description:  "<ul style="text-align:left"><li>3MUGIS-2020 summer school will host international groups up to 35 participants. 3MUGIS-2020 participants will receive 3 ECTS, recognized by educational programs worldwide.
  </li><li>Participation fees will cover accommodation, two meals per day, travelling inside Russia and all materials necessary for courses. The participation fee is anticipated to be 1,800 euro. </li>
  <li>All of the foreign participants will also receive visa support and any other assistance with organization of their trip to Moscow.</li></ul>"
 
+=======
+description: "<ul><li>3MUGIS-2020 summer school will host international groups up
+  to 35 participants. 3MUGIS-2020 participants will receive 3 ECTS, recognized by
+  educational programs worldwide. </li><li>Participation fees will cover accommodation,
+  two meals per day, travelling inside Russia and all materials necessary for courses.
+  The participation fee is anticipated to be 1,800 euro. </li><li> <li>All of the
+  foreign participants will also receive visa support and any other assistance with
+  organization of their trip to Moscow.</li></ul>"
+>>>>>>> ebf50b1f2e31aa1b39416613caea7f332948c8ce
 ---
 
