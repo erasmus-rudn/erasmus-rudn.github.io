@@ -195,6 +195,11 @@ section.success {
 
 section.success a, section.success hr.star-primary {
     color: #cef7ef;
+
+}
+
+section.success hr.star-primary {
+    border-color: #cef7ef;
 }
 
 @media(max-width:767px) {
