@@ -193,6 +193,10 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.success a, section.success hr.star-primary {
+    color: #cef7ef;
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;
