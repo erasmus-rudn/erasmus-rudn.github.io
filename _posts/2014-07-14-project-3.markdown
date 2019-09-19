@@ -1,14 +1,22 @@
 ---
-title: Conditions
-date: 2014-07-14 00:00:00 Z
+title: Duration and venue
+date: 2014-07-17 00:00:00 Z
 categories:
 - details
 layout: default
-modal-id: 3
-img: fa-suitcase
-alt: Conditions
+modal-id: 2
+img: fa-calendar
+alt: Duration and venue
 project-date: April 2014
 client: Start Bootstrap
-description:  "<ul><li>3MUGIS-2020 summer school will host international groups up to 35 participants. 3MUGIS-2020 participants will receive 3 ECTS, recognized by educational programs worldwide. </li><li>Participation fees will cover accommodation, two meals per day, travelling inside Russia and all materials necessary for courses. The participation fee is anticipated to be 1,800 euro. </li>
- <li>All of the foreign participants will also receive visa support and any other assistance with organization of their trip to Moscow.</li></ul>"
+description: 3MUGIS will take place in Russia July 6 – July 26 2020 and will include
+  two parts. Five days of focused on-campus training in skills relevant to the sites
+  visited will occur at RUDN University in Moscow city. They will be followed by an
+  expanded two-week field tour from the Barents Sea (Terriberka village, 69N; 35E)
+  to the Black Sea (Abrau Durso, 44N; 37E). Six zones (subarctic, taiga, deciduous
+  forest, forest-steppes, steppes and subtropics) will be studied in regard to key
+  issues of urban development, including industrial pollution, forest management,
+  agricultural development, and urban-rural interactions. Urban soils and green infrastructure
+  at each of the region will be studied in comparison to natural references.
+---
 
