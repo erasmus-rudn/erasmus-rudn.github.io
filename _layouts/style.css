@@ -1,12 +1,11 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
 header.intro-back .col-lg-12 {
-background: linear-gradient(
-        to bottom,
-        rgba(30,180,110, 0.1),
-        rgba(30,180,110,0.8)
-);
-margin-top:300px;
+    background: linear-gradient( 
+        to bottom, 
+        rgba(30,180,110, 1), 
+        rgba(30,180,110,1) );
+    margin-top: 483px;
 }
 header {
         background:none !important
