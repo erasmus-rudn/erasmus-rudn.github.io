@@ -7,7 +7,9 @@ background: linear-gradient(
         rgba(30,180,110,0.8)
 );
 }
-
+header {
+        background:none !important
+}
 #background-carousel{
   position:absolute;
   width:100%;
