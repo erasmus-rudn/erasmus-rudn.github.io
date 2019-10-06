@@ -9,14 +9,7 @@ intro_general: "<p>The 3MUGIS summer school is an annual event, which addresses 
   emphasis on soil functions. The event is organized under the umbrella of the International
   Union of Soil Science (IUSS), RUDN University (Russia) and the Urban Soil Institute
   (USA) with strong cooperation from universities, institutions and research teams
-  from around the world.</p> <p>The 3MUGIS summer school provides students with first
-  hand field experience examining anthropogenic impact sequences across conventional
-  soil forming factors from Sub-artic to Dry steppe climates. At the end of the program,
-  students will better understand the social, climactic, and geographic factors that
-  contribute to human soil modification in this region; the long-term implications
-  of such changes; practical skills to perform in-field soil monitoring, soil mapping
-  and remote sensing; and applied skills in identifying, implementing, and managing
-  opportunities for urban green infrastructure development.</p>"
+  from around the world.</p> <p>The 3MUGIS summer school provides students with first hand field experience examining anthropogenic impact sequences across conventional soil forming factors from <span class="emph">Subartic to Subtropical climates</span>. At the end of the program,  students will better understand the social, climactic, and geographic factors that   contribute to human soil modification in this region; the long-term implications   of such changes; practical skills to perform in-field soil monitoring, soil mapping   and remote sensing; and applied skills in identifying, implementing, and managing   opportunities for urban green infrastructure development.</p>"
 big_intro: "<p>Building from considerable experience and feedback from participants
   during the first two years, the organizers have decided to further focus the school
   on solid practical skills in monitoring, modeling and mapping urban soils and green
