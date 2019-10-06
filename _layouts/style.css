@@ -5,8 +5,11 @@ header.intro-back .col-lg-12 {
         to bottom,
         rgba(30,180,110, 1),
         rgba(30,180,110,1) );
-    margin-top: 440px;
+    margin-top: 420px;
     box-shadow: rgba(30,100,110,0.45) 0px 3px 15px;
+}
+header.intro-back container {
+    width:100%
 }
 header {
         background:none !important
