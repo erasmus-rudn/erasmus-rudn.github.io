@@ -18,6 +18,17 @@
                 </div>
             </div>-->
             <div class="row">
+                <div class="col-sm-4 portfolio-item">
+                        <a href="#history" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <i class="fa fa-info-circle fa-5x" aria-hidden="true"></i>
+                            <div class="portfolio-item-text">History</div>
+                        </a>
+                    </div>
                 {% for post in site.categories.details %}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
