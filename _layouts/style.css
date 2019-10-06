@@ -64,3 +64,7 @@ header {
   padding-top: 0px;
   padding-bottom: 0px;
 }
+.emph {
+    color:#2c3e50;
+    font-weight:bold
+}
