@@ -9,7 +9,8 @@ img: fa-suitcase
 alt: Conditions
 project-date: April 2014
 client: Start Bootstrap
-description: <ul><li>3MUGIS-2020 summer school will host international groups up to 35 participants. 3MUGIS-2020 participants will receive 3 ECTS, recognized by educational programs worldwide. </li><li>Participation fees will cover accommodation, two meals per day, travelling inside Russia and all materials necessary for courses. The participation fee is anticipated to be 1,800 euro. </li>
+description: <p>For participants who are not willing or are not able to join the field part of the 3MUGIS-2020 summer school a one-week on-campus format will be available. Lectures and practical trainings will be followed by a field day and participation at the Smart and Sustainable Cities conference. The participation fee for the summer school and the conference will is
+anticipated to be 300 euro (10000 RUB for RF citizens). Detailed information and registration is available at the SSC conference website.</p>3MUGIS-2020 summer school will host international groups up to 35 participants. 3MUGIS-2020 participants will receive 3 ECTS, recognized by educational programs worldwide. </li><li>Participation fees will cover accommodation, two meals per day, travelling inside Russia and all materials necessary for courses. The participation fee is anticipated to be 1,800 euro. </li>
  <li>All of the foreign participants will also receive visa support and any other assistance with organization of their trip to Moscow.</li></ul>
 ---
 
