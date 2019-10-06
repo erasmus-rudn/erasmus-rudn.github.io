@@ -8,6 +8,9 @@ header.intro-back .col-lg-12 {
     margin-top: 420px;
     box-shadow: rgba(30,100,110,0.45) 0px 3px 15px;
 }
+#partners .nav>li>a {
+        padding: 10px 50px;
+}
 #page-top header.intro-back .container {
     width:100%
 }
