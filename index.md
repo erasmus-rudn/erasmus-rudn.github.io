@@ -58,6 +58,8 @@ history: For the first time, the school was organized in Moscow ahead of the SUI
 partners:
 - text: RUDN University
   img: img/partners/image1.jpeg
+- text: Russian Science Foundation
+  img: img/partners/image19.png
 - text: International Union of Soil Science
   img: img/partners/image2.jpeg
 - text: Urban Soil Institute
