@@ -9,7 +9,7 @@ img: fa-calendar
 alt: Duration and venue
 project-date: April 2014
 client: Start Bootstrap
-description: <p>3MUGIS will be held July 3 - July 13, 2020 in an online format. It will use ZOOM platform for running the summer school. All participants are invited to download ZOOM and get ZOOM account at https://ecc20.zoom.us/download.</p><p>The school rooms will be open during lectures and workshops according to the 3MUGIS program. The links to the rooms and the materials will be sent by e-mail to the registered participants.</p>
+description: <p>3MUGIS will be held July 3 - July 13, 2020 in an online format. It will use ZOOM platform for running the summer school. All participants are invited to download ZOOM and get ZOOM account at <a href="https://ecc20.zoom.us/download">ZOOM website</a>.</p><p>The school rooms will be open during lectures and workshops according to the 3MUGIS program. The links to the rooms and the materials will be sent by e-mail to the registered participants.</p>
 
 ---
 
