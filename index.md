@@ -1,18 +1,9 @@
 ---
 layout: default
-the_year_motto: ANTHROPOGENIC AND NATURAL SOIL LANDSCAPES IN EUROPEAN RUSSIA&#58;FROM
-  SEA TO SEA
+the_year_motto: ANTHROPOGENIC AND NATURAL SOIL LANDSCAPES IN EUROPEAN RUSSIA&#58;FROM SEA TO SEA
 motto_addition: Monitoring, modeling and managing urban soils and green infrastructure
-school_dates: July 6 – 26, 2020, Registration is open.
-intro_general: <p>The 3MUGIS summer school is an annual event, which addresses current environmental consequences and
-  opportunities of   urbanization with special   emphasis on soil functions. The event is organized under the umbrella of the
-  International Union of Soil      Science (IUSS), RUDN University (Russia) and the Urban Soil Institute (USA) with strong 
-  cooperation from universities, institutions and  research teams from around the world.</p> <p>The 3MUGIS summer school provides 
-  students with first hand field experience examining anthropogenic impact sequences across conventional soil forming factors 
-  from <span class="emph">Subartic to Subtropical climates</span>. At the end of the program,  students will better understand 
-  the social, climactic, and geographic factors that   contribute to human soil modification in this region; the long-term 
-  implications   of such changes; practical skills to perform in-field soil monitoring, soil mapping   and remote sensing; and 
-  applied skills in identifying, implementing, and managing   opportunities for urban green infrastructure development.</p>
+school_dates: July 3 – 13, 2020, Registration is open.
+intro_general: <p>The 3MUGIS summer school is an annual event, which addresses current environmental consequences and opportunities of   urbanization with special   emphasis on soil functions. The event is organized under the umbrella of the International Union of Soil      Science (IUSS), RUDN University (Russia) and the Urban Soil Institute (USA) with strong cooperation from universities, institutions and  research teams from around the world.</p><p>The 3MUGIS-2020 will be held online. The program include lectures and seminars by the top-level scientists and practitioners,    lifehacks on Scientific writing skills as well as life broadcasts from the 3MUGIS-2021 field tour sites.</p><p>At the end of the program, students will better understand ecology and biogeochemistry of urban soils and plants, advances in monitoring and modeling of urban soils and green infrastructures, role of nature-based solutions and urban green infrastructure for human health and well-being</p>
 big_intro: "<p>Building from considerable experience and feedback from participants
   during the first two years, the organizers have decided to further focus the school
   on solid practical skills in monitoring, modeling and mapping urban soils and green
