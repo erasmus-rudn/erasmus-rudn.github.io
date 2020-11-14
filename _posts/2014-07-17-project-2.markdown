@@ -9,7 +9,7 @@ img: fa-calendar
 alt: Duration and venue
 project-date: April 2014
 client: Start Bootstrap
-description: <p>3MUGIS will be held July 3 - July 13, 2020 in an online format. It will use ZOOM platform for running the summer school. All participants are invited to download ZOOM and get ZOOM account at <a href="https://ecc20.zoom.us/download">ZOOM website</a>.</p><p>The school rooms will be open during lectures and workshops according to the 3MUGIS program. The links to the rooms and the materials will be sent by e-mail to the registered participants.</p>
+description: <p>3MUGIS will take place in Russia July 26 – August 15 2021 and will include two parts. Five days of focused on-campus training in skills relevant to the sites visited will occur at RUDN University in Moscow city. They will be followed by an expanded two-week field tour from the Barents Sea (Terriberka village, 69N; 35E) to the Black Sea (Abrau Durso, 44N; 37E).</p><p>Six zones (subarctic, taiga, deciduous forest, forest-steppes, steppes and subtropics) will be studied in regard to key issues of urban development, including industrial pollution, forest management, agricultural development, and urban-rural interactions. Urban soils and green infrastructure at each of the region will be studied in comparison to natural references.</p>
 
 ---
 
