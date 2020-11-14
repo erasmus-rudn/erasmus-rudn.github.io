@@ -13,7 +13,7 @@ url: http://3mugis.org
 description: The 3MUGIS school organized by RUDN University (Moscow, Russia) in collaboration
   with Urban Soil Institute (New York, USA) and under umbrella of the International
   Union of Soil Science (IUSS).
-intro: July 22 – August 10 2019, Registration starts in September
+intro: July 26 – August 15, 2021
 meta_author: Alex Yaroslavtsev
 google_verify: 
 bing_verify: 
@@ -30,16 +30,9 @@ footer:
   social: Also look at
   credits: Credits
 social:
-- title: twitter
-  url: http://twitter.com/jekyllrb
 - title: facebook
-  url: http://www.facebook.com/groups/1191891174204804/
-- title: stack-overflow
-  url: http://stackoverflow.com/questions/tagged/jekyll
-- title: bitbucket
-  url: http://bitbucket.org/jekyll
-- title: github
-  url: http://github.com/jekyll
+  url: https://www.facebook.com/groups/3MUGIS/
+
 address:
 - line: 117198, Moscow,<br> Miklukho-Maklaya str. 6
 - line: 'Tel.: +7 (495) 434 5300'
