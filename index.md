@@ -59,8 +59,6 @@ partners:
   img: img/partners/image4.png
 - text: Capacity Building Projects
   img: img/partners/image5.png
-- text: Russian academic excellence project
-  img: img/partners/image6.jpeg
 - text: Russian Timiryazev State Agrarian University
   img: img/partners/image7.png
 - text: The Central Chernozem State Biosphere Nature Reserve named after Professor
